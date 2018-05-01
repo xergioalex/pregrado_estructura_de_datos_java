@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=boolean\ esVacioArbolN(ArbolN)
+comment1.params=a\ k
+comment1.target=ArbolN\ encontrarArbolN(ArbolN,\ int)
+comment2.params=a\ x
+comment2.target=ArbolN\ insertarRaiz(ArbolN,\ Objeto)
+comment3.params=a\ p\ x
+comment3.target=void\ insertarHijo(ArbolN,\ int,\ Objeto)
+comment4.params=a
+comment4.target=void\ preorden(ArbolN)
+comment5.params=a
+comment5.target=int\ alturaArbolN(ArbolN)
+comment6.params=a
+comment6.target=int\ nivelArbolN(ArbolN)
+comment7.params=a
+comment7.target=int\ numHojas(ArbolN)
+numComments=8

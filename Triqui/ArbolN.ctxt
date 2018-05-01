@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArbolN()
+comment1.params=r\ h\ s\ p
+comment1.target=ArbolN(Objeto,\ ArbolN,\ ArbolN,\ ArbolN)
+comment2.params=
+comment2.target=Objeto\ raizArbolN()
+comment3.params=x
+comment3.target=void\ modificarRaiz(Objeto)
+comment4.params=
+comment4.target=ArbolN\ hijoArbolN()
+comment5.params=a
+comment5.target=void\ cambiarHijo(ArbolN)
+comment6.params=
+comment6.target=ArbolN\ hermanoArbolN()
+comment7.params=a
+comment7.target=void\ cambiarHermano(ArbolN)
+comment8.params=
+comment8.target=ArbolN\ padreArbolN()
+comment9.params=a
+comment9.target=void\ cambiarPadre(ArbolN)
+numComments=10
